@@ -1,6 +1,6 @@
-# semantic_search_api : Production Ready Code
- [streamlit-main_streamlit-2022-11-11-12-11-25.webm](https://user-images.githubusercontent.com/31824267/201451927-88bca5aa-bc59-4d66-9fae-48ed658fa89c.webm)
-
+# semantic_search_api   
+ 
+[streamlit_video_semantic_search.webm](https://user-images.githubusercontent.com/31824267/201714751-e68686c8-c144-4ce0-b914-217b2365db90.webm)
 
 ## About  
 This is a project developed to create a code template and to understand semantic search techniques using elasticsearch. 
